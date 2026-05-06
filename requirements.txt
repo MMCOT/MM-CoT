@@ -1,0 +1,20 @@
+# MM-CoT Benchmark Dependencies
+
+# Core
+torch>=2.1.0
+transformers>=4.40.0
+Pillow>=10.0.0
+tqdm>=4.66.0
+pydantic>=2.0.0
+
+# Model inference
+modelscope>=1.14.0
+qwen-vl-utils>=0.0.2
+
+# API clients
+together>=1.0.0
+openai>=1.0.0
+requests>=2.31.0
+
+# Evaluation & data processing
+opencv-python>=4.8.0
